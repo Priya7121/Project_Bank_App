@@ -14,6 +14,9 @@ public class Account {
 		private String gender;
 		private int age;
 		private double balance;
+
+                private String accountStatement;
+
 		
 		public void setAccNo(int accNo)
 		{
