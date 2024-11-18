@@ -15,7 +15,7 @@ public class Account {
 		private int age;
 		private double balance;
 
-                private String accountStatement;
+                
 
 		
 		public void setAccNo(int accNo)

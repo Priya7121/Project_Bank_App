@@ -6,7 +6,7 @@ import com.braindata.bankmanagement_ServiceImpl.Sbi;
 
 public class Test {
 
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
 	public static void main(String[] args) {
 		Sbi s=new Sbi();
 		Scanner sc=new Scanner(System.in);
