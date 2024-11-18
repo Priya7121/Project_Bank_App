@@ -6,6 +6,8 @@ import javax.persistence.Id;
 @Entity
 public class Account {
 	   @Id
+
+                private int userid;
 		private int accNo;
 		private String name;
 		private long mobNo;
