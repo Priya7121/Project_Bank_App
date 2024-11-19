@@ -38,6 +38,11 @@ public class HButil {
 	SessionFactory sf=md.getSessionFactoryBuilder().build();
 		return sf ;
 
+public static void loginpage()
+{
+//20 line
+
+}
 
 	
 	
