@@ -43,6 +43,9 @@ public static void loginpage()
 //20 line
 
 }
+public static void main()
+{
+}
 
 	
 	
